@@ -1,5 +1,3 @@
-### Give a star and Fork the Repo or You can Use this as a Template also.
-
 ####  Features
  - Renames very fast .
  - Permanent Thumbnail support.
@@ -91,7 +89,3 @@ python3 bot.py
 
 `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
 
-
-#### Join Telegram Channel 
- - [WebXBots](https://t.me/WebXBots). Bot Updates Channel
- - Support Group [WebX-Support](https://t.me/Web_X_Support). For Bug report.
